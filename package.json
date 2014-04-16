@@ -1,6 +1,6 @@
 {
   "name": "omniscroll-touch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An omniscroll plugin to calculate delta values based on a TouchEvent",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,6 @@
   "author": "Teemu Alapoikela",
   "license": "MIT",
   "dependencies": {
-    "omniscroll": "~0.1.0",
     "objectility": "~0.0.1"
   }
 }
